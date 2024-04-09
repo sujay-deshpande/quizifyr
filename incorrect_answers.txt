@@ -1,0 +1,505 @@
+{1: 'androidlayoutheightwrapcontent androidorientationvertical TextView', 2: 'listadapter', 3: 'void', 4: '.'}
+{1: 'JOHN', 2: 'imageviewsetimageresourcerdrawablelogo', 3: 'androidididlistview', 4: 'it'}
+{1: 'gunicorn', 2: 'GC', 3: 'needed', 4: 'running'}
+{1: 'such', 2: 'Worldh1bodyhtml sudo tee varwww html', 3: 'gcp', 4: '4'}
+{1: 'apache2', 2: 'desired', 3: 'services', 4: 'additionally'}
+{1: 'above', 2: 'change', 3: 'friendly', 4: 'gcloud app'}
+{1: 'website', 2: 'worldwide', 3: 'firewall', 4: 'Ap ache'}
+{1: '12', 2: '8', 3: 'er', 4: 'methods'}
+{1: 'learn', 2: 'intuitive', 3: 'GCP thi s', 4: 'other'}
+{1: 'unique', 2: 'target', 3: 'prompts', 4: 'gcloud info'}
+{1: 'existing', 2: 'Understanding ho w', 3: 'n', 4: 'invoicing'}
+{1: 'first', 2: 'those', 3: 'third', 4: 'statements'}
+{1: 'gcloud', 2: 'third', 3: 'ge', 4: 'card'}
+{1: 'appengine', 2: 'up', 3: 'tween', 4: 'enterprises'}
+{1: 'GCP Projec ts Fig', 2: 'study', 3: 'including', 4: 'ready'}
+{1: '2011', 2: '2013', 3: 'it', 4: 'issued'}
+{1: 'emerged', 2: 'landmark', 3: 'data', 4: 'recent years'}
+{1: 'private', 2: 'subject', 3: 'thousands of dollars', 4: 'handle'}
+{1: 'policies', 2: 'The Cambrid ge Analytica', 3: 'rapidly', 4: 'risks'}
+{1: 'subsequent', 2: 'of', 3: 'transparen cy accountability', 4: 'them'}
+{1: 'marriot', 2: 'httpswwwcsoonlinecomarticle3541148th ebiggest databreaches inindiahtml', 3: 'play', 4: 'user'}
+{1: 'indian', 2: 'The Info rmation Technology Act', 3: 'essential', 4: 'todays'}
+{1: 'legally', 2: 'ema il', 3: 'electronics', 4: 'explore'}
+{1: 'sfer', 2: 'companies', 3: 'controversial', 4: 'un ique'}
+{1: 'customers', 2: 'section 463', 3: 'recognition', 4: 'due'}
+{1: 'severity', 2: 'The Ca mbridge Analytica', 3: 'pending', 4: 'country'}
+{1: 'because', 2: 'sfer', 3: 'safeguarding', 4: 'explores'}
+{1: 'androidlayoutwidthwrapcontent androidlayoutheightwrapcontent', 2: '6', 3: 'lab', 4: 'androidididscrollviewlabel'}
+{1: 'liststring', 2: 'androidlayoutmarginTop12dp androidtextCollege Labs androidtextSize18sp', 3: 'void', 4: 'androidididscrollviewlabel'}
+{1: 'have', 2: 'applications', 3: 'are', 4: 'Virtual Machine JVM 2'}
+{1: 'step', 2: 'addint xint', 3: 'one', 4: 'c'}
+{1: 'programming', 2: 'String SQL int', 3: 'architecture', 4: 'tier'}
+{1: 'allowing', 2: 'others', 3: 'over a thousand', 4: 'keeping'}
+{1: 'additionally', 2: 'millions', 3: 'The Info rmation Technology Act', 4: 'used'}
+{1: 'guideline', 2: '463', 3: 'httpswwwcsoonlinecomarticle3541148th ebiggest databreaches inindiahtml', 4: 'raises'}
+{1: 'used', 2: 'The Ca mbridge Analytica', 3: 'recent', 4: 'phishing'}
+{1: 'along', 2: 'parliament', 3: 'ties', 4: 'sfer'}
+{1: 'place', 2: 'ge', 3: 'thereby', 4: 'thousands of dollars'}
+{1: 'recent years', 2: 'included', 3: 'if', 4: 'dollars'}
+{1: 'black', 2: 'addresses', 3: 'indi viduals', 4: 'contributions'}
+{1: 'criminal', 2: 'employees', 3: 'if', 4: 'section 468'}
+{1: 'co', 2: 'sectors', 3: 'trust', 4: 'transparen cy accountability'}
+{1: 'ema il', 2: 'binding', 3: '2020', 4: 'at'}
+{1: 'under', 2: 'arguing', 3: 'ntrols', 4: 'un ique'}
+{1: 'reputation', 2: 'violates', 3: 'promoting', 4: 'The Cambrid ge Analytica'}
+{1: 'explicit', 2: 'accessin g', 3: 'confidential', 4: 'late'}
+{1: 'were', 2: 'encrypted', 3: 'standards', 4: 'responsibi lities'}
+{1: 'identity', 2: 'helps', 3: '093cambridge', 4: 'organi zations'}
+{1: 'thirty days', 2: '19', 3: 'republic', 4: 'shariat'}
+{1: 'had', 2: 'particular', 3: 'Court', 4: '4.'}
+{1: 'definition', 2: 'entered', 3: 'sed', 4: 'one year'}
+{1: 'less than 8five years', 2: 'maintained', 3: 'h', 4: 'title'}
+{1: 'the dowr y', 2: 'agreement', 3: 'comprised', 4: 'contained'}
+{1: 'jwilson', 2: 'was', 3: 'come', 4: 'cond'}
+{1: 'g-15', 2: 'with', 3: 'areas', 4: 'wef'}
+{1: 'mahr', 2: 'paid', 3: 'whichever', 4: 'six months'}
+{1: 'action', 2: 'Su bs.', 3: '20th', 4: 'criminal'}
+{1: 'while', 2: 'recogni sed', 3: 'penalty', 4: 'fit'}
+{1: 'prohibit', 2: 'paid', 3: 'section 1', 4: 'him'}
+{1: 'nts ar e given', 2: 'carrying', 3: 'parents', 4: 'therefor'}
+{1: 'that', 2: '4', 3: 'ten thousand rupees', 4: '53'}
+{1: 'central', 2: 'manner', 3: 'collect', 4: '3 ii'}
+{1: '20', 2: 'o', 3: 'Customerbased', 4: 'sla'}
+{1: 'rule', 2: '95 hours', 3: 'differentiate', 4: '.'}
+{1: '24', 2: 'sbpcallstart', 3: '17', 4: 'shelltrue'}
+{1: 'countreset dfpdreadcsvpathvoterListcsv dfdfvoteridNameGenderZoneCityPassw hasVoted for index row', 2: 'admingridrow', 3: 'al', 4: 'systems'}
+{1: 'frontend', 2: 'textresultcong fontHelvetica', 3: 'practice', 4: 'textresultcong'}
+{1: 'textvariable', 2: 'experience', 3: 'networking', 4: 'tkinter as'}
+{1: 'be', 2: 'fairness', 3: 'degree', 4: 'lambda logadminroot'}
+{1: 'index', 2: 'frame2', 3: '1column 0 vote StringVarframe1', 4: 'votecastrootframe'}
+{1: 'custody', 2: 'friends', 3: 'anchore', 4: 'protection'}
+{1: 'and', 2: 'voterloginroot', 3: 'success', 4: 'datadecodesplit log0 intlog0 ifdfverifylog0log1'}
+{1: 'the', 2: 'ra2211029010023', 3: 'long', 4: 'Department of Networking and Co'}
+{1: 'case', 2: 'at', 3: 'us', 4: 'Nagave ni B Sangolgi'}
+{1: 'integration', 2: 'outputs', 3: 'Nit i Mehta M ihir Lalwani', 4: 'databases'}
+{1: 'voteupdatestvid', 2: 'combinati', 3: 'countilocindex1', 4: 'head'}
+{1: 'import', 2: 'hono', 3: 'zone', 4: 'cyber'}
+{1: 'that', 2: 'Digital', 3: 'data', 4: 'and'}
+{1: 'androidlayout', 2: 'file', 3: 'new', 4: 'androidlayoutwidthwrapcontent androidlayoutheightwrapcontent'}
+{1: 'imageviewsetimageresourcerdrawablelogo', 2: 'androidosbundle', 3: 'Java File', 4: 'androidlayoutbelowidgridview'}
+{1: 'many', 2: 'later', 3: 'owner', 4: 'Instagram Story Viewer Tool Instagram'}
+{1: 'dont', 2: 'st', 3: 'accounts', 4: 'wwwinstafollowerscousername'}
+{1: 'wwwinstafollowerscousername', 2: 'benefits', 3: 'this', 4: 'owner'}
+{1: 'very', 2: 'th', 3: 'easy', 4: 'Instagram Story Viewer Tool Instagram'}
+{1: 'having', 2: 'the Data Data Privacy', 3: 'trends', 4: 'verma'}
+{1: 'prescribing', 2: 'developed', 3: 'section 463', 4: 'pro'}
+{1: 'dollars', 2: 'collected', 3: 'recent years', 4: 'accountable'}
+{1: 'nations', 2: 'httpswwwcsoonlinecomarticle3541148th ebiggest databreaches', 3: 'ministry', 4: 'so'}
+{1: 'involves', 2: 'helpe', 3: 'un ique', 4: 'sectors'}
+{1: 'must', 2: 'link', 3: 'concerned', 4: 'thousands of dollars'}
+{1: 'availability', 2: 'assessments', 3: 'careful', 4: 'The Cambrid ge Analytica'}
+{1: 'sabha11928', 2: 'transparently', 3: 'ofaadhaar', 4: 'organi zations'}
+{1: 'The Ca mbridge Analytica', 2: 'manner', 3: '100000000', 4: 'digitize'}
+{1: 'accessin g', 2: 'landmark', 3: 'government', 4: 'sujay'}
+{1: 'future', 2: 'supreme', 3: 'draft', 4: 'ema il'}
+{1: 'system', 2: 'way', 3: 'sfer', 4: 'case'}
+{1: 'rmation', 2: 'scandals', 3: 'transparen cy accountability', 4: 'assessments'}
+{1: 'intelligence', 2: 'ensure', 3: 'responsibi lities', 4: 'play'}
+{1: 'sfer', 2: 'indi viduals', 3: '2022', 4: 'organi'}
+{1: 'storing', 2: 'The Info rmation Technology Act', 3: 'discovered', 4: 'guaranteed'}
+{1: 'vital', 2: 'data', 3: 'US', 4: 'xmlnsandroidhttpschemasandroidcomapkresa'}
+{1: 'try', 2: 'cipher', 3: 'androidtextstringresult', 4: 'rearranges'}
+{1: 'addresses', 2: 'suitable', 3: 'decryptio', 4: 'aes'}
+{1: 'plaintext', 2: 'secu rity', 3: 'mobile', 4: 'inverse'}
+{1: 'serves', 2: 'digita l signatures', 3: 'expanded', 4: '2024'}
+{1: 'milan', 2: 'ac', 3: 'both', 4: 'essential'}
+{1: 'half', 2: '7conclusion', 3: 'bonafide', 4: 'which'}
+{1: 'receive', 2: 'country', 3: 'establishes', 4: 'section 419'}
+{1: '37000000', 2: 'court', 3: 'a', 4: 'insights'}
+{1: 'cy', 2: 'transactions', 3: 'ices', 4: 'organi zations'}
+{1: 'opportuni', 2: 'The Cambrid ge Analytica', 3: 'anonymization', 4: 'attacks'}
+{1: 'lie', 2: 'iduals', 3: 'february', 4: 'ofaadhaar datahtml'}
+{1: 'The Info rmation Technology Act', 2: 'light', 3: 'gram', 4: 'perspective'}
+{1: 'using', 2: 'increasingly', 3: 'ks', 4: 'sfer'}
+{1: 'specifi', 2: 'against', 3: '018', 4: 'recent years'}
+{1: 'un ique', 2: 'improve', 3: 'data', 4: 'arguing'}
+{1: 'responsibi lities', 2: 'citizens', 3: 'organi', 4: 'bill2022'}
+{1: 'high', 2: 'along', 3: 'accessin g', 4: 'to'}
+{1: 'anisms', 2: 'informed', 3: 'p', 4: 'transparen cy accountability'}
+{1: 'ema il', 2: 'found', 3: 'pdpa', 4: 'having'}
+{1: 'subject', 2: 'under', 3: 'seeking', 4: 'indi viduals'}
+{1: 'part', 2: 'ties', 3: 'The Ca mbridge Analytica', 4: 'cted'}
+{1: 'including', 2: 'thousands of dollars', 3: 'property', 4: 'life'}
+{1: 'ranging', 2: 'have', 3: 'v', 4: 'US'}
+{1: 'httpswwwcsoonlinecomarticle3541148th ebiggest databreaches', 2: '2.', 3: 'ca', 4: 'protecting'}
+{1: 'were', 2: 'growing', 3: 'consequences', 4: 'accessin g'}
+{1: 'simplest', 2: 'continues', 3: 'The Info rmation Technology Act', 4: 'prescribes'}
+{1: 'had', 2: 'websites', 3: 'financial', 4: 'organi zations'}
+{1: 'happening', 2: 'themselves', 3: 'human', 4: 'section 463'}
+{1: 'The Cambrid ge Analytica', 2: 'early', 3: 'ways', 4: 'biggest'}
+{1: 'guaranteed', 2: 'become', 3: 'value', 4: 'sfer'}
+{1: 'thousands of dollars', 2: 'advertising', 3: '87000000', 4: 'dataprotection'}
+{1: 'become', 2: 'competitive', 3: 'indi viduals', 4: 'welfare'}
+{1: 'un ique', 2: 'c', 3: 'patches', 4: 'documentspar'}
+{1: 'in', 2: 'not', 3: 'the years', 4: 'inducing'}
+{1: 'iduals', 2: 'responsibi lities', 3: 'sabha11928', 4: 'myfitness'}
+{1: 'around', 2: 'ema il', 3: 'union', 4: 'high'}
+{1: 'cri', 2: 'biggest', 3: 'The Ca mbridge Analytica', 4: 'along'}
+{1: 'formation', 2: 'way', 3: 'prioritize', 4: 'transparen cy accountability'}
+{1: 'anion', 2: '2', 3: 'pieces', 4: '21Activity 21Activity 21Activity 21Activity 21'}
+{1: 'take', 2: '6coffee', 3: '6 volt', 4: 'no3'}
+{1: 'gypsum', 2: 'quick', 3: 'methanoic', 4: 'than'}
+{1: 'adilute', 2: 'whose', 3: 'zns', 4: 'problem'}
+{1: 'square6report', 2: 'why', 3: 'two', 4: 'yday Life'}
+{1: 'weak', 2: 'produce', 3: 'carbo', 4: 'thalein'}
+{1: 'mulae', 2: '14what', 3: '.', 4: 'warm'}
+{1: 'react', 2: 'acids ar', 3: 'families', 4: 'ts'}
+{1: 'a few dr ops', 2: 'identified', 3: 'media', 4: 'family'}
+{1: 'bag', 2: 'like', 3: 'all', 4: 'Na aq OH'}
+{1: 'ddilute hydrochloric acid', 2: '2.', 3: 'body', 4: 'science'}
+{1: 'solid', 2: 'bluegr een', 3: 'indicate', 4: 'soapy'}
+{1: 'square6water', 2: 'aerated', 3: 'happenedon', 4: 'hydrogencarbonates'}
+{1: 'washing', 2: 'potenz', 3: 'inject', 4: 'cdilute sulphuric acid'}
+{1: 'character', 2: 'a W ater Solution', 3: 'square6record', 4: 'hydrochloric'}
+{1: 'due', 2: 'brown', 3: '12A milkman', 4: 'indicator'}
+{1: 'Na CO H O Na CO H O Sodium carbo nate2', 2: 'changes', 3: 'set', 4: 'decomposes'}
+{1: 'bdilute hydrochloric', 2: 'c5', 3: 'pulp', 4: 'na2co3'}
+{1: 'july', 2: 'display', 3: 'operating', 4: '5'}
+{1: 'repay', 2: 'billions', 3: 'with', 4: 'sharing'}
+{1: 'like', 2: 'networ k communication and data exchange', 3: 'interactions', 4: 'enhancing'}
+{1: 'compone nts', 2: 'provides', 3: 'data', 4: 'innovation'}
+{1: 'based', 2: 'connecti vity state', 3: 'vices', 4: 'utilize'}
+{1: 'zgray', 2: 'downloading', 3: 'mee', 4: 'security'}
+{1: 'the Google Play Store', 2: 'introduced', 3: 'features', 4: 'come'}
+{1: 'mee', 2: 'independently', 3: 'at', 4: 'presented'}
+{1: 'networ k communication and data exchange', 2: 'permissions', 3: 'querying', 4: 'engaging'}
+{1: 'amounts', 2: 'billions', 3: 'various', 4: 'reusable'}
+{1: 'wide', 2: 'involves', 3: 'compone nts', 4: '.'}
+{1: 'interactive', 2: 'widely', 3: 'providing', 4: 'connecti vity state'}
+{1: 'powerful', 2: 'ViewPager', 3: 'fix', 4: 'supports'}
+{1: 'come', 2: 'fostered', 3: 'row', 4: 'networ k communication and data exchange'}
+{1: 'size', 2: 'engaging', 3: 'connecti vity state', 4: 'language'}
+{1: 'sahm', 2: 'an', 3: 'recent', 4: 'mee'}
+{1: 'gather', 2: 'conditions', 3: 'compone nts', 4: 'vity'}
+{1: 'invested', 2: 'billions', 3: 'performance', 4: 'behavior'}
+{1: 'Gmail Google Maps', 2: 'smartphones', 3: 'bars', 4: 'linear'}
+{1: 'networ k communication and data exchange', 2: 'deployment', 3: 'photos', 4: 'buttons'}
+{1: 'trillion', 2: 'billions', 3: 'interactions', 4: 'role'}
+{1: 'rahs', 2: 'mee', 3: 'organized', 4: 'orm'}
+{1: 'amounts', 2: 'compone nts', 3: 'as', 4: 'development'}
+{1: 'hierarchy', 2: 'friendly', 3: 'can', 4: 'connecti vity state'}
+{1: 'functionalities', 2: 'responsive', 3: 'ViewPager', 4: 'friendly'}
+{1: 'most', 2: 'panel', 3: 'fi', 4: 'networ k communication and data exchange'}
+{1: 'container', 2: 'compone nts', 3: 'can', 4: 'practices'}
+{1: 'vlahd', 2: 'with', 3: 'consumer', 4: 'mee'}
+{1: 'yood', 2: 'mee', 3: 'viewpager', 4: 'exchange'}
+{1: 'when', 2: 'networ k communication and data exchange', 3: 'flexibility', 4: 'contains'}
+{1: 'mee', 2: 'allowing', 3: 'ui', 4: 'vices'}
+{1: 'compone nts', 2: 'navigating', 3: 'high', 4: 'checkboxes'}
+{1: 'open', 2: 'data', 3: 'networ k communication and data exchange', 4: 'capture'}
+{1: 'enhanced', 2: 'compone nts', 3: 'state', 4: 'introduced'}
+{1: 'distribution', 2: 'Services Services', 3: 'switch', 4: 'enables'}
+{1: 'manage', 2: 'networ k communication and data exchange', 3: 'flexible', 4: 'swipe'}
+{1: 'billions', 2: 'parent', 3: 'onboarding', 4: 'different'}
+{1: 'mee', 2: 'features', 3: 'types', 4: 'based'}
+{1: 'connecti vity state', 2: 'rich', 3: 'java', 4: 'relationships'}
+{1: 'mee', 2: 'compone nts', 3: 'simple', 4: 'parts'}
+{1: 'media', 2: 'security', 3: 'Android UI', 4: 'containers'}
+{1: 'design', 2: 'large', 3: 'databasedriven', 4: 'tasks'}
+{1: 'payments', 2: 'video', 3: 'billions', 4: 'development'}
+{1: 'wioletta', 2: '2.', 3: 'usage', 4: 'or'}
+{1: 'opensource', 2: 'evolved', 3: 'databasedriven', 4: 'tailored'}
+{1: 'funding', 2: 'error', 3: 'them', 4: 'billions'}
+{1: '1990', 2: '2007', 3: '8', 4: 'studied'}
+{1: 'at', 2: 'frameworks', 3: 'SharedPreferences', 4: 'utility'}
+{1: 'amount', 2: 'empower', 3: 'growth', 4: 'billions'}
+{1: 'nascent', 2: 'activity', 3: 'databasedriven', 4: 'are'}
+{1: 'accumulated', 2: 'lightweight', 3: 'billions', 4: 'edit'}
+{1: 'databasedriven', 2: 'ensure', 3: 'its', 4: 'parts'}
+{1: 'providing', 2: 'databasedriven', 3: 'individual', 4: 'unprecedented'}
+{1: 'million', 2: 'how', 3: 'billions', 4: 'perhaps'}
+{1: 'breaking', 2: '8figure', 3: 'g2340at', 4: 'smell'}
+{1: 'volume', 2: 'smelling', 3: 'so2', 4: 'square6After 20 minutes'}
+{1: 'dilute hydr ochloric acid', 2: 'bromide', 3: 'eyeglasses', 4: 'possible'}
+{1: 'silver fr om', 2: 'give', 3: 'ick', 4: 'discuss'}
+{1: 'eyeglasses', 2: 'n mor', 3: 'reareactions', 4: 'ships'}
+{1: 'about 34 cm', 2: '129', 3: 'method', 4: 'leave'}
+{1: 'activitysilver', 2: 'fit', 3: 'iodideaq Barium', 4: 'zn'}
+{1: 'collect', 2: 'given', 3: 'time', 4: '6 volt'}
+{1: 'these', 2: 'square6an iron tawapannail', 3: 'enormous', 4: 'pressure'}
+{1: 'two to three days', 2: 'due', 3: 'calcium', 4: 'pair'}
+{1: 'vity TextView androidtext stringhelloworld androidlayoutwidth 550dp androidlayoutheight wrapcontent', 2: 'next', 3: 'concepts', 4: 'needs'}
+{1: 'local', 2: 'calling', 3: 'androidcolorholobluedark', 4: 'twidth wrapcontent'}
+{1: 'ghtmatchparent', 2: 'thi', 3: 'various', 4: 'animat'}
+{1: 'LinearLayout xmlnsandroid httpschemasandroidcomapkresandroid androidorientati onhorizontal androidlayoutwidthmatchparent', 2: 'reslayoutactivitymainxml', 3: 'go', 4: 'right'}
+{1: 'reslayout', 2: 'newly', 3: 'idimageButton androidsrc drawableabc androidlayoutbelow idtextView2 androidlayoutcenterHorizontal', 4: 'control'}
+{1: 'spell', 2: 'dynamic', 3: 'androidlayoutwidth', 4: 'owners'}
+{1: '24 hour', 2: 'translate', 3: 'startactivityread1', 4: 'androidintentactioncall'}
+{1: 'buch', 2: 'reboot', 3: 'der', 4: 'androidcolorholobluedark'}
+{1: 'ag', 2: 'purposes', 3: 'fragment', 4: 'an inch px Pixels mm Millimeters'}
+{1: 'activitymain', 2: 'sent', 3: 'should', 4: 'onactivitycreated'}
+{1: 'secured', 2: 'The Cambrid ge Analytica', 3: 'employees', 4: 'conclusion'}
+{1: '82000000', 2: 'ing', 3: 'documentspar liament questionsrajya sabha11928', 4: 'discovered'}
+{1: 'un ique', 2: 'localiza', 3: 'assessments', 4: 'database'}
+{1: 'introduction', 2: 'accessin g', 3: 'regulates', 4: 'myheritage'}
+{1: '8', 2: 'position', 3: 'indi viduals', 4: 'participate'}
+{1: 'vpns', 2: 'responsibi lities', 3: 'trends', 4: 'constitution'}
+{1: 'arguing', 2: 'section 420', 3: '4', 4: 'under'}
+{1: 'ema il', 2: '8', 3: 'between', 4: 'on'}
+{1: 'oecd', 2: 'amounts', 3: 'address', 4: 'organi zations'}
+{1: 'sfer', 2: 'maintain', 3: 'collecting', 4: 'septembe'}
+{1: 'billions', 2: 'simple', 3: 'spanning', 4: 'tabs'}
+{1: 'authentication', 2: 'manufacturers', 3: 'databasedriven', 4: 'guidelines'}
+{1: 'enhancements', 2: 'multimedia', 3: 'databasedriven', 4: 'publishing'}
+{1: 'billions', 2: 'based', 3: 'way', 4: 'protocols'}
+{1: 'money', 2: 'influence', 3: 'billions', 4: 'empowers'}
+{1: 'sophisticated', 2: 'memory', 3: 'authentication', 4: 'databasedriven'}
+{1: 'taxpayer', 2: 'functionality', 3: 'billions', 4: 'ethernet'}
+{1: 'each', 2: 'operations', 3: 'adaptability', 4: 'databasedriven'}
+{1: 'coupled', 2: 'cohesive', 3: 'ui', 4: 'databasedriven'}
+{1: 'money', 2: 'track', 3: 'billions', 4: 'navigation'}
+{1: 'billions', 2: 'conclusion', 3: 'spanning', 4: 'multidimensional'}
+{1: 'points', 2: 'databasedriven', 3: 'shared', 4: 'textbased'}
+{1: 'fostering', 2: 'firebase', 3: 'databasedriven', 4: 'writing'}
+{1: 'billion', 2: 'okhttp', 3: 'billions', 4: 'utility'}
+{1: 'status', 2: 'set', 3: 'connecti vity state', 4: 'retrofit'}
+{1: 'spend', 2: 'kotlin', 3: 'billions', 4: 'advancements'}
+{1: 'mee', 2: 'playing', 3: 'sdk', 4: 'ansition'}
+{1: 'heavily', 2: 'networ k communication and data exchange', 3: 'sdk', 4: 'sliding'}
+{1: 'kit', 2: 'each', 3: 'programming', 4: 'compone nts'}
+{1: 'connecti vity state', 2: 'shared', 3: 'eir', 4: 'servers'}
+{1: 'zh00r', 2: 'run', 3: 'multifaceted', 4: 'mee'}
+{1: 'accumulated', 2: 'files', 3: 'billions', 4: 'organized'}
+{1: 'compone nts', 2: 'entire', 3: 'uis', 4: 'viewpager'}
+{1: 'networ k communication and data exchange', 2: 'introduced', 3: 'reducing', 4: 'how'}
+{1: 'running', 2: 'compone nts', 3: 'business', 4: 'videos'}
+{1: 'funding', 2: 'billions', 3: 'become', 4: 'privacy'}
+{1: 'amounts', 2: 'networ k communication and data exchange', 3: 'datasets', 4: 'labels'}
+{1: 'mee', 2: 'drm', 3: 'messages', 4: 'shaping'}
+{1: 'vertical', 2: 'world', 3: 'for', 4: 'connecti vity state'}
+{1: 'some', 2: 'kattas', 3: 'keeping', 4: 'c'}
+{1: 'final', 2: 'firewood', 3: 'badly', 4: 'the T rees Movement'}
+{1: 'ener gy', 2: 'air', 3: 'quantify', 4: 'centuries'}
+{1: 'ultimately', 2: 'everyone', 3: 'generations', 4: 'the trees destr oying'}
+{1: 'pynes', 2: 'the 1970s', 3: 'rain', 4: 'atharva'}
+{1: 'environmentally', 2: 'noticed', 3: 'over 2500 km', 4: 'remarkable'}
+{1: 'reach', 2: 'reusedo', 3: 'decentralised', 4: 'Rs 125 crores'}
+{1: 'comes', 2: 'failur', 3: 'segregate', 4: 'remote'}
+{1: 'straight', 2: 'sacrificed', 3: 'kulh', 4: 'instances'}
+{1: 'hydr ogen nitr ogen', 2: 'beliefs', 3: 'product', 4: 'high'}
+{1: 'taxpayer', 2: 'billions', 3: 'process', 4: 'stands'}
+{1: 'image', 2: 'transformed', 3: 'databasedriven', 4: 'across'}
+{1: 'multibillion', 2: 'gather', 3: 'billions', 4: 'elevated'}
+{1: 'utilize', 2: 'databasedriven', 3: 'jetpack', 4: 'common'}
+{1: 'which', 2: 'atop', 3: 'databasedriven', 4: 'stands'}
+{1: 'spend', 2: 'enable', 3: 'screen', 4: 'billions'}
+{1: 'colors', 2: 'databasedriven', 3: 'future', 4: 'latest'}
+{1: 'profits', 2: 'billions', 3: 'building', 4: 'more'}
+{1: 'keen', 2: 'exceeds', 3: 'databasedriven', 4: 'extraordinary'}
+{1: 'billions', 2: 'its', 3: 'simplifying', 4: 'various'}
+{1: 'investing', 2: 'field', 3: 'billions', 4: 'wide'}
+{1: 'databasedriven', 2: 'pressed', 3: 'the', 4: 'ensures'}
+{1: 'edittext', 2: 'components', 3: 'databasedriven', 4: 'rapid'}
+{1: 'worth', 2: 'billions', 3: 'heart', 4: 'libraries'}
+{1: 'billions', 2: 'conditions', 3: 'final', 4: 'choice'}
+{1: 'databasedriven', 2: 'parent', 3: 'smartphones', 4: 'offering'}
+{1: '2pbos', 2: 'substances', 3: 'iodideaq Barium', 4: 'salt'}
+{1: '7h2o', 2: 'zinc', 3: 'marked', 4: 'about 34 cm'}
+{1: '1which', 2: 'recall', 3: 'wordequation', 4: 'g2340at'}
+{1: '4so', 2: 'silver', 3: 'square6After 20 minutes', 4: 'humid'}
+{1: 'h2', 2: 'bottom', 3: 'Every year', 4: 'c'}
+{1: 'n mor', 2: 'react', 3: 'caos', 4: 'collected'}
+{1: 'apparatus', 2: '14activity', 3: '6 volt', 4: '4so'}
+{1: '14what', 2: '17figure', 3: 'dilute hydr ochloric acid', 4: '8'}
+{1: 'silver fr om', 2: 'v', 3: 'mg', 4: 'you'}
+{1: 'slow', 2: 'two to three days', 3: 'start', 4: 'eyeglasses'}
+{1: 'square6mix', 2: '6 volt', 3: 'water2pbno32s', 4: 'large'}
+{1: 'silver fr om', 2: 'articles', 3: 'for', 4: 'trioxide'}
+{1: 'slow', 2: 'square6After 20 minutes', 3: 'nacl', 4: 'iibarium'}
+{1: 'dilute hydr ochloric acid', 2: 'iwhat', 3: 'identify', 4: 'given'}
+{1: 'Every year', 2: 'element', 3: 'aation', 4: 'rhsstep'}
+{1: 'say', 2: 'about 34 cm', 3: 'zn', 4: 'and'}
+{1: 'tubes', 2: 'bridges', 3: 'two to three days', 4: 'called'}
+{1: 'mation', 2: 'n mor', 3: 'balanced', 4: 'rice'}
+{1: 'flask', 2: 'g2340at', 3: 'wordequation', 4: 'railings'}
+{1: 'sulphuric', 2: 'square6an iron tawapannail', 3: '2fe', 4: 'ater'}
+{1: 'rich', 2: 'write', 3: 'databasedriven', 4: 'embrace'}
+{1: 'billions', 2: 'threats', 3: 'textbased', 4: 'managing'}
+{1: 'law', 2: 'internet', 3: 'thousands of dollars', 4: 'criminalizes'}
+{1: 'digitization', 2: 'access', 3: 'The Info rmation Technology Act', 4: 'ensures'}
+{1: 'november', 2: 'ema', 3: 'organi zations', 4: 'victims'}
+{1: 'millions', 2: 'myfitness', 3: 'puttaswamy', 4: 'inadequate'}
+{1: 'priva', 2: 'patient', 3: 'documentspar liament questionsrajya sabha11928', 4: 'rel'}
+{1: 'current', 2: 'ways', 3: 'sfer', 4: 'passwords'}
+{1: 'recent years', 2: '2013', 3: 'updated', 4: 'basis'}
+{1: 'ated', 2: 'un ique', 3: 'forgery', 4: 'will'}
+{1: 'section 463', 2: 'from', 3: 'imprisonment', 4: 'references'}
+{1: 'property', 2: 'side', 3: 'ema il', 4: 'name'}
+{1: 'brainchild', 2: 'specific', 3: 'layout', 4: 'databasedriven'}
+{1: 'billions', 2: 'offering', 3: 'contains', 4: 'position'}
+{1: 'communicate', 2: 'databasedriven', 3: 'kotlin', 4: 'sharing'}
+{1: 'billions', 2: 'locally', 3: 'compatibility', 4: 'typically'}
+{1: 'investing', 2: 'billions', 3: 'relational', 4: 'swipe'}
+{1: 'databasedriven', 2: 'querying', 3: 'testament', 4: 'multiple'}
+{1: 'clean', 2: 'mug', 3: 'Magnesiums Hydrochloric acidaq Magnesium chlorideaq Hydrogeng', 4: 'per'}
+{1: 'activit', 2: 'fe2o3', 3: '3fes', 4: 'square6After 20 minutes'}
+{1: 'silver fr om', 2: 'ammonium', 3: 'bringing', 4: 'answer'}
+{1: '18', 2: 'mentioned', 3: '2pbos', 4: '6 volt'}
+{1: 'involve', 2: 'literature', 3: 'represented', 4: 'Every year'}
+{1: 'n mor', 2: '120', 3: 'gain', 4: 'four'}
+{1: 'sentence', 2: 'rusting', 3: 'unbalanced', 4: 'g2340at'}
+{1: 'salts', 2: 'arrowhead', 3: 'two to three days', 4: 'slaked'}
+{1: 'reactioncarry', 2: 'dilute hydr ochloric acid', 3: 'nor', 4: 'discuss'}
+{1: 'decomposition', 2: 'about 34 cm', 3: 'square6when', 4: 'use'}
+{1: 'forms', 2: 'syncing', 3: 'improving', 4: 'networ k communication and data exchange'}
+{1: 'investing', 2: 'video', 3: 'consistent', 4: 'billions'}
+{1: 'veets', 2: 'such', 3: 'mee', 4: 'powering'}
+{1: 'permissions', 2: 'compone nts', 3: 'photos', 4: 'provides'}
+{1: 'open', 2: 'crucial', 3: 'connecti vity state', 4: 'bugs'}
+{1: 'contains', 2: 'Hardware C', 3: 'integration', 4: 'drawer'}
+{1: 'gwahd', 2: 'a', 3: 'mee', 4: 'accelerometer'}
+{1: 'changes', 2: 'connecti vity state', 3: 'omponents', 4: 'compatibility'}
+{1: 'compone nts', 2: 'content', 3: 'playing', 4: 'integration'}
+{1: 'networ k communication and data exchange', 2: 'we', 3: 'compone', 4: 'used'}
+{1: 'windfall', 2: 'expectations', 3: 'parent', 4: 'billions'}
+{1: 'spanning', 2: 'search', 3: 'Media Playback Android', 4: 'against'}
+{1: 'sums', 2: 'business', 3: 'billions', 4: 'customize'}
+{1: 'databasedriven', 2: 'events', 3: 'synergy', 4: 'platforms'}
+{1: 'databasedriven', 2: 'performs', 3: 'catering', 4: 'dictating'}
+{1: 'User Interface UI Design', 2: 'smartphones', 3: 'core', 4: 'commitment'}
+{1: 'trillion', 2: 'billions', 3: 'wellsuited', 4: 'build'}
+{1: 'bugs', 2: 'databasedriven', 3: 'testament', 4: 'music'}
+{1: 'android', 2: 'Navigation Drawer', 3: 'fingertips', 4: 'their'}
+{1: 'loans', 2: 'validate', 3: 'regions', 4: 'billions'}
+{1: 'quality', 2: 'ensure', 3: 'User Interface UI Components', 4: 'flat'}
+{1: 'interface', 2: 'parent', 3: 'networ k communication and data exchange', 4: 'de'}
+{1: 'mee', 2: 'files', 3: 'list', 4: 'scrollable'}
+{1: 'simple', 2: 'databases', 3: 'offers', 4: 'connecti vity state'}
+{1: 'billion', 2: 'font', 3: 'key', 4: 'billions'}
+{1: 'open', 2: 'compone nts', 3: 'queuing', 4: 'bars'}
+{1: 'Google Services', 2: 'sqlite', 3: 'that', 4: 'success'}
+{1: 'databases', 2: 'databasedriven', 3: 'management', 4: 'query'}
+{1: 'invest', 2: 'empower', 3: 'billions', 4: 'marketplaces'}
+{1: 'implementation', 2: 'labels', 3: 'UI', 4: 'environments'}
+{1: 'networ k communication and data exchange', 2: 'interactive', 3: 'biometric', 4: 'frame'}
+{1: 'ove', 2: 'connecti vity state', 3: 'accelerometer', 4: 'like'}
+{1: 'mee', 2: 'functionality', 3: 'conjunction', 4: 'audio'}
+{1: 'like', 2: 'accelerometer', 3: 'compone nts', 4: 'video'}
+{1: 'recoup', 2: 'playing', 3: 'constraint', 4: 'billions'}
+{1: 'ninth', 2: 'integrity', 3: 'governments', 4: 'second'}
+{1: '35', 2: 'paper', 3: '4', 4: 'representing'}
+{1: '126', 2: 'our', 3: 'two to three days', 4: 'square6finally'}
+{1: 'co2g', 2: 'come', 3: '2activity', 4: 'about 34 cm'}
+{1: 'if', 2: 'items', 3: 'e ener gy', 4: 'aation'}
+{1: 'al', 2: 'water', 3: 'balance hydr ogen', 4: 'agcl'}
+{1: 'digestion', 2: 'dilute hydr ochloric acid', 3: 'zn', 4: 'burn'}
+{1: 'physical', 2: 'compound', 3: 'language', 4: 'g2340at'}
+{1: 'alive', 2: 'Every year', 3: 'nt', 4: 'ochloric'}
+{1: 'on', 2: 'cano32', 3: '6 volt', 4: 'aa'}
+{1: 'few', 2: 'square6which', 3: 'absorbed', 4: 'square6After 20 minutes'}
+{1: 'caution', 2: 'iiTo', 3: 'fat', 4: 'mentioned'}
+{1: 'wondering', 2: 'n mor', 3: 'lamp', 4: 'electrolysis'}
+{1: 'g2340at', 2: 'iinitial', 3: 'dazzling', 4: 'included'}
+{1: 'eq', 2: 'Every year', 3: 'ships', 4: 'damaged'}
+{1: 'now', 2: 'your', 3: 'square6place', 4: 'square6an iron tawapannail'}
+{1: 'Magnesiums Hydrochloric acidaq Magnesium chlorideaq Hydrogeng', 2: 'ecovery', 3: 'feel', 4: 'third'}
+{1: '3', 2: 'about 34 cm', 3: 'must', 4: 'hcl'}
+{1: '3fes', 2: 'trials', 3: 'caco3s', 4: 'two to three days'}
+{1: 'balance hydr ogen', 2: 'so2', 3: 'mation', 4: 'taking'}
+{1: 'suitable', 2: '6 volt', 3: 'far', 4: 'reacts'}
+{1: 'ViewHolder', 2: 'the', 3: 'heavily', 4: 'multiple'}
+{1: 'sqlite', 2: 'networ k communication and data exchange', 3: 'container', 4: 'define'}
+{1: 'pay', 2: 'container', 3: 'manage', 4: 'billions'}
+{1: 'including', 2: 'components', 3: 'view', 4: 'compone nts'}
+{1: 'connecti vity state', 2: 'track', 3: 'encapsulate', 4: 'assistant'}
+{1: 'chehn', 2: 'through', 3: 'networking', 4: 'mee'}
+{1: 'people', 2: '7', 3: 'square6tabulate', 4: 'Acid Base Salt W'}
+{1: '23activity', 2: '12A milkman', 3: 'over', 4: 'form'}
+{1: 'cation', 2: 'caution', 3: 'ddilute hydrochloric acid', 4: 'dantiseptic'}
+{1: 'carbonate', 2: 'atoms', 3: 'bluegr een', 4: 'cathode'}
+{1: 'ol2', 2: 'nor', 3: 'thalein', 4: 'dilution'}
+{1: '34square6the', 2: 'a few dr ops', 3: 'observe', 4: 'negative'}
+{1: 'no3', 2: 'removing', 3: 'mulae', 4: '4which'}
+{1: 'acids ar', 2: 'sections', 3: 'aq', 4: 'harming'}
+{1: '11fresh', 2: '6 volt', 3: 'knowall', 4: 'parts'}
+{1: 'explain', 2: 'hydrogencarbonates', 3: '4', 4: '31bleaching'}
+{1: 'stakeholders', 2: 'the Government of India', 3: 'emai', 4: 'wi'}
+{1: 'impossible', 2: 'affected', 3: '2', 4: 'un ique'}
+{1: 'track', 2: 'code', 3: 'accessin g', 4: 'authorized'}
+{1: 'evaluation', 2: 'wi', 3: 'to', 4: 'section 419'}
+{1: 'recent years', 2: 'recognition', 3: 'ge', 4: 'target'}
+{1: 'operators', 2: 'policy', 3: 'digital', 4: 'frameworkaadhaar acthtml'}
+{1: 'also', 2: 'indi viduals', 3: 'stricter', 4: 'cybersecurity'}
+{1: 'social', 2: 'criminal', 3: 'The Ca mbridge Analytica', 4: 'dat'}
+{1: 'continued', 2: 'stricter', 3: 'due', 4: 'thousands of dollars'}
+{1: 'framework', 2: 'organi zations', 3: 'india', 4: 'binding'}
+{1: 'Uniform Resource Identifiers', 2: 'unparalleled', 3: 'java', 4: 'latest'}
+{1: 'debt', 2: 'billions', 3: 'error', 4: 'delve'}
+{1: 'requirements', 2: 'databasedriven', 3: 'multifaceted', 4: 'activity'}
+{1: 'B Hydrochloric', 2: 'wor', 3: 'among', 4: 'observationsfigure'}
+{1: 'chloride', 2: 'noticed', 3: 'a W ater Solution', 4: 'stain'}
+{1: '212.', 2: 'methanoic', 3: 'similar', 4: 'separation'}
+{1: 'steps', 2: 'more', 3: 'uses', 4: 'bluegr een'}
+{1: 'without', 2: 'hydrogencarbonates', 3: 'yellowish', 4: 'atermetal'}
+{1: 'large', 2: 'answer', 3: 'thalein', 4: 'mixed'}
+{1: 'solutionfigure', 2: 'ddilute hydrochloric acid', 3: 'noticed', 4: 'red'}
+{1: 'bdilute hydrochloric', 2: 'brown', 3: 'salts2', 4: 'alkaline'}
+{1: 'square6similarly', 2: 'purpose', 3: 'through', 4: 'adilute'}
+{1: 'square6do', 2: 'formula', 3: 'lower', 4: 'Na CO H O Na CO H O Sodium carbo nate2'}
+{1: 'networ k communication and data exchange', 2: 'space', 3: 'n', 4: 'has'}
+{1: 'worth', 2: 'type', 3: 'billions', 4: 'compone'}
+{1: 'databases', 2: 'from', 3: 'connecti vity state', 4: 'single'}
+{1: 'compone nts', 2: 'proximity', 3: 'write', 4: 'management'}
+{1: 'reer', 2: 'mee', 3: 'storage', 4: 'conjunction'}
+{1: 'the last one week', 2: '1612activity', 3: 'crafts', 4: 'petrol'}
+{1: 'many', 2: 'square6discuss', 3: 'other', 4: 'hundreds'}
+{1: 'crafts', 2: 'W ater Har', 3: 'storing', 4: 'growth'}
+{1: 'things', 2: 'activity', 3: 'two decades', 4: '1985'}
+{1: 'fauna', 2: 'technology', 3: 'prejudice', 4: 'cold days'}
+{1: 'himalayas', 2: 'a few months of the year', 3: 'evious', 4: 'bottlescovers'}
+{1: 'force', 2: 'y', 3: 'benefit', 4: 'multicrore'}
+{1: 'considered', 2: 'the 1970s', 3: 'ferent', 4: '168sal'}
+{1: 'nomadic', 2: 'pynes', 3: 'irrigation', 4: 'silviculture'}
+{1: 'everyday', 2: 'about forty years', 3: 'considerable', 4: 'vast'}
+{1: 'networ k communication and data exchange', 2: 'button', 3: 'viewholder', 4: 'widely'}
+{1: 'of', 2: 'compone nts', 3: 'characters', 4: 'conducting'}
+{1: 'permissions', 2: 'versions', 3: 'connecti vity state', 4: 'lightweight'}
+{1: 'mee', 2: 'these', 3: 'primarily', 4: 'improving'}
+{1: 'billions', 2: 'with', 3: 'activities', 4: 'connecti'}
+{1: 'cdilute sulphuric acid', 2: '22', 3: 'families', 4: 'break'}
+{1: 'signify', 2: 'containers', 3: 'generated', 4: 'Na CO H O Na CO H O Sodium carbo nate2'}
+{1: 'bdilute hydrochloric', 2: 'warm', 3: 'turns', 4: 'd10'}
+{1: 'ts', 2: '23', 3: 'aluminium', 4: 'adilute'}
+{1: 'happened', 2: 'methanoic', 3: 'planets', 4: 'radicals'}
+{1: 'following', 2: 'family', 3: 'square6are', 4: '6 volt'}
+{1: 'lactic', 2: 'yday Life', 3: '6coffee', 4: 'vinegar'}
+{1: 'our', 2: 'ddilute hydrochloric acid', 3: 'give', 4: 'brine'}
+{1: 'reaction', 2: 'hydrogencarbonates', 3: 'record', 4: 'your'}
+{1: 'ch3coo', 2: 'a few dr ops', 3: '2523', 4: '0'}
+{1: 'ones', 2: '130', 3: 'dilute hydr ochloric acid', 4: 'which'}
+{1: 'get', 2: 'n mor', 3: 'types', 4: '12activity'}
+{1: 'two', 2: 'Every year', 3: 'always', 4: 'lefthand'}
+{1: 'converted', 2: 'electrodes', 3: 'along', 4: 'square6an iron tawapannail'}
+{1: 'square6After 20 minutes', 2: 'still', 3: 'elsewhere', 4: 'breaking'}
+{1: 'eyes', 2: 'a', 3: '6 volt', 4: 'perform'}
+{1: 'g2340at', 2: 'antioxidants', 3: 'partly', 4: 'nacl'}
+{1: 'silver fr om', 2: 'characteristic', 3: 'h2ol13', 4: 'fit'}
+{1: 'different', 2: 'iibarium', 3: 'o2', 4: 'two to three days'}
+{1: 'eady', 2: 'mgo', 3: 'action', 4: 'Magnesiums Hydrochloric acidaq Magnesium chlorideaq Hydrogeng'}
+{1: 'anddrop', 2: 'databases', 3: 'key', 4: 'thousands'}
+{1: 'thousands', 2: 'filtering', 3: 'primarily', 4: 'designer'}
+{1: 'httpswwwcsoonlinecomarticle3541148th ebiggest databreaches', 2: 'possible', 3: 'new', 4: 'accounts'}
+{1: 'thousand', 2: 'secured', 3: 'millions', 4: 'while'}
+{1: 'responsibi lities', 2: 'responsibi', 3: 'prioritize', 4: 'disruption'}
+{1: 'transparen cy accountability', 2: 'general', 3: 'track', 4: 'accountable'}
+{1: 'thousands of dollars', 2: 'plays', 3: '150000000', 4: 'assessments'}
+{1: 'https', 2: 'seeking', 3: 'specifi', 4: 'section 419'}
+{1: 'a', 2: 'h', 3: 'ema il', 4: 'digitize'}
+{1: 'accessin g', 2: 'because', 3: 'having', 4: 'virtual'}
+{1: 'advance', 2: 'go', 3: 'sfer', 4: 'integr'}
+{1: 'create', 2: 'blockchain', 3: 'cri', 4: 'The Info rmation Technology Act'}
+{1: 'androidlayoutwidth fillparent androidlayoutheight fillparent androidorientation vertical TextView androidid idtextid androidlayoutwidth wrapcontent androidlayoutheight wrapcontent', 2: 'syntax', 3: 'leading', 4: '30dp'}
+{1: 'ideditte', 2: 'setcontentview', 3: 'URI attribut es', 4: 'start'}
+{1: 'androiddrawableright', 2: 'studioproject', 3: 'onding', 4: 'androidl ayoutheight matchparent'}
+{1: 'dy', 2: 'able', 3: 'rl', 4: 'res'}
+{1: 'structured', 2: 'httpwwwexamplecom', 3: 'placeholder', 4: 'idtext'}
+{1: 'one', 2: 'messaging', 3: 'true', 4: 'setcontentview'}
+{1: 'integersxml', 2: 'pack', 3: 'ac Run', 4: 'oper'}
+{1: 'androidpassword', 2: 'file', 3: 'present', 4: 'major'}
+{1: 'android stud io project', 2: 'world', 3: 'proprietary', 4: 'b1button'}
+{1: 'xmlnsandroi', 2: 'comexampletutorialspointmyapplicationlaunch', 3: 'customview', 4: 'vm'}
+{1: 'billions', 2: 'brainchild', 3: 'applications', 4: 'we'}
+{1: 'evolved', 2: 'drawer', 3: 'compatibility', 4: 'databasedriven'}
+{1: 'billions', 2: 'innovation', 3: 'conclusion', 4: 'ides'}
+{1: 'which', 2: 'ethernet', 3: 'databasedriven', 4: 'java'}
