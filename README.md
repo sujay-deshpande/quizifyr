@@ -10,17 +10,17 @@ Quizifyr is an innovative NLP-based quiz generator developed using Python. This 
     cd Quizifyr
     ```
 
-2. **Install Dependencies**
+2. **Create and Activate Virtual Environment**
+    ```bash
+    python -m venv env
+    source env/scripts/activate  # On Windows
+    source env/bin/activate      # On macOS/Linux
+    ```
+
+3. **Install Dependencies**
     ```bash
     pip install -r requirements.txt
     ```
-
-3. **Set Environment Variables**
-    - Create a `.env` file in the root directory.
-    - Add the following details to the `.env` file:
-      ```env
-      ELASTIC_MAIL_API_KEY=your-elastic-mail-api-key
-      ```
 
 ## 🚀 How to Run
 
