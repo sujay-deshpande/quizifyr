@@ -20,9 +20,9 @@ app.config['MAIL_SERVER'] = 'smtp.elasticemail.com'
 app.config['MAIL_PORT'] = 2525
 app.config['MAIL_USE_TLS'] = True
 app.config['MAIL_USE_SSL'] = False
-app.config['MAIL_USERNAME'] = 'sujayhdeshpande@gmail.com'
-app.config['MAIL_PASSWORD'] = '01FD97033ABC4389DED96CD0237987AA6FDF'
-app.config['MAIL_DEFAULT_SENDER'] = 'sujayhdeshpande@gmail.com'
+app.config['MAIL_USERNAME'] = 'your mail id'
+app.config['MAIL_PASSWORD'] = 'Elastic mail api key'
+app.config['MAIL_DEFAULT_SENDER'] = 'your mail id'
 
 
 mail = Mail(app)
@@ -78,7 +78,7 @@ def checklogin():
 
             if request.form['Password'] == PW:
                 session['user'] = request.form['Username']
-                if session['user'] == 'sujaydeshpande2406@gmail.com':
+                if session['user'] == 'Admin email':
                     # Redirect to admin page if the user is the admin
                     return redirect('/admin')
                 else:
@@ -89,7 +89,7 @@ def checklogin():
 
 @app.route('/admin')
 def admin():
-    if 'user' in session and session['user'] == 'sujaydeshpande2406@gmail.com':
+    if 'user' in session and session['user'] == 'Admin email':
         logged_in_users = get_logged_in_users_count()  # Get count of logged-in users
         quiz_count = get_quiz_count()
         return render_template('admin.html', logged_in_users=logged_in_users, quiz_count=quiz_count)
@@ -301,7 +301,7 @@ def result():
 def send_email(recipient, html_content):
     
     
-    msg = Message('Quiz Result: Quizifer', sender='sujayhdeshpande@gmail.com', recipients=[recipient])
+    msg = Message('Quiz Result: Quizifer', sender='your mail id', recipients=[recipient])
     msg.html = html_content
 
     try:
