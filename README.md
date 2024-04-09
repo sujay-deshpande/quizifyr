@@ -6,7 +6,7 @@ Quizifyr is an innovative NLP-based quiz generator developed using Python. This 
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/Quizifyr.git
+    git clone https://github.com/sujay-deshpande/Quizifyr.git
     cd Quizifyr
     ```
 
